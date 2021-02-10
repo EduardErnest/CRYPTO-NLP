@@ -15,6 +15,8 @@ Stock and Decentralised financial markets rely on a set of information about spe
 
 Various **NLP** methods are being developed as we speak, but one of the most interesting approaches is **FinBERT** , which is a public library that uses a subset of financial news from Reuters. For sentiment classification, it uses Financial PhraseBank, which has over 4,000 sentences labeled by people with backgrounds in business and finance. Unlike regular sentiment analysis, where posi‐ tive means that something is of positive emotion, in Financial PhraseBank, a positive sentiment indicates that the stock price of the company will increase based on the news in the sentence. 
 
+## Typical NLP End-2-End Pipeline
+
 
 ![Screenshot](Screenshot.png)
 
